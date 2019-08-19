@@ -17,13 +17,13 @@ Depression Detection using Twitter data
 
 ## Project Phases <a name="phases"></a>
 ### Data Assessing
-#
+
 ### Data Preprosssing 
-#
+
 ### Modlleing 
-# 
+
 ### Conclusion 
-#
+
 
 ## Installation<a name="installation"></a>
 
