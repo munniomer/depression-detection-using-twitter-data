@@ -16,6 +16,14 @@ Depression Detection using Twitter data
 ## Project Motivation <a name="motivation"></a>
 
 ## Project Phases <a name="phases"></a>
+### Data Assessing
+#
+### Data Preprosssing 
+#
+### Modlleing 
+# 
+### Conclusion 
+#
 
 ## Installation<a name="installation"></a>
 
